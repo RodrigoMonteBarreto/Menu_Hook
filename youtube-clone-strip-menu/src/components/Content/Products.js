@@ -9,24 +9,24 @@ export const Products = () => (
         <span className="payments" />
 
         <div>
-          <h3>Payments</h3>
-          <p>Plataforma completa para pagamentos online</p>
+          <h3>A Igreja</h3>
+          <p>Plataforma completa da IPB em glória</p>
         </div>
       </li>
       <li>
         <span className="billing" />
 
         <div>
-          <h3>Billing</h3>
-          <p>Plataforma completa para pagamentos online</p>
+          <h3>EBD</h3>
+          <p>Escola bíblica dominical</p>
         </div>
       </li>
       <li>
         <span className="connect" />
 
         <div>
-          <h3>Connect</h3>
-          <p>Plataforma completa para pagamentos online</p>
+          <h3>Conheça-nos</h3>
+          <p>Conheça a Igreja prebisteriana em Glória-SE</p>
         </div>
       </li>
     </ul>
