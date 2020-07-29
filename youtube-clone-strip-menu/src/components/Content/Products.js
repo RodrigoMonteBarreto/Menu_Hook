@@ -9,16 +9,16 @@ export const Products = () => (
         <span className="payments" />
 
         <div>
-          <h3>A Igreja</h3>
-          <p>Plataforma completa da IPB em glória</p>
+          <h3>Negocios</h3>
+          <p>Plataforma completa</p>
         </div>
       </li>
       <li>
         <span className="billing" />
 
         <div>
-          <h3>EBD</h3>
-          <p>Escola bíblica dominical</p>
+          <h3>Company</h3>
+          <p>Descrição completa</p>
         </div>
       </li>
       <li>
@@ -26,7 +26,7 @@ export const Products = () => (
 
         <div>
           <h3>Conheça-nos</h3>
-          <p>Conheça a Igreja prebisteriana em Glória-SE</p>
+          <p>Conheça </p>
         </div>
       </li>
     </ul>

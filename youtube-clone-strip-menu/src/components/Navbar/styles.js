@@ -2,7 +2,9 @@ import styled from 'styled-components';
 
 export const Container = styled.nav`
     
-    background:linear-gradient(150deg, #53f 15%, #05d5ff);
+    
+    background:#2fb86e;
+    /* background:linear-gradient(150deg, #53f 15%, #05d5ff); */
 
    > ul{
     display: flex;
